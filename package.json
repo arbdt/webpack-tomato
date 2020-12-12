@@ -1,0 +1,28 @@
+{
+  "name": "webpack-tomato",
+  "version": "1.0.0",
+  "description": "a tomato timer in webpack form",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arbdt/webpack-tomato.git"
+  },
+  "keywords": [
+    "tomato"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arbdt/webpack-tomato/issues"
+  },
+  "homepage": "https://github.com/arbdt/webpack-tomato#readme",
+  "dependencies": {
+    "css-loader": "^5.0.1",
+    "style-loader": "^2.0.0",
+    "webpack": "^5.10.1",
+    "webpack-cli": "^4.2.0"
+  }
+}
